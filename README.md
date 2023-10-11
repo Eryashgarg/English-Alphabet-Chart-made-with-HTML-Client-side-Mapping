@@ -18,7 +18,7 @@ This project is a simple English Alphabet Chart created using HTML and client-si
 
 You can launch the English Alphabet Chart website by clicking the link below:
 
-[Launch the English Alphabet Chart](https://www.example.com/english-alphabet-chart.html)
+[Launch the English Alphabet Chart](https://eryashgarg.github.io/English-Alphabet-Chart-made-with-HTML-Client-side-Mapping/index.html)
 
 ## How to Use
 
